@@ -12,6 +12,22 @@ Practice repo for earning **Pull Shark Gold** achievement (128 merged PRs).
 
 ## Quick Method
 
+### One-Shot Gold Rush (128 PRs)
+Run the complete automation in one go:
+
+```powershell
+cd pull-shark-practice
+.\gold-rush.ps1
+```
+
+**Time**: 3-6 hours with human-like delays
+**Features**:
+- 128 PRs automatically created and merged
+- Random commit messages (30+ variations)
+- Random delays (2-5 sec per PR, 30-90 sec breaks every 10 PRs)
+- Progress tracking with milestones
+- Natural human patterns
+
 ### Manual (Most Natural)
 Edit `practice.md` directly on GitHub:
 - Click the file → Edit → Commit to new branch → Create PR → Merge
