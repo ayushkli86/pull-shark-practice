@@ -22,3 +22,4 @@ Add your changes below:
 - Fixed formatting
 - Updated notes
 - Added detail
+- Fixed spacing
