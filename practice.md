@@ -99,3 +99,4 @@ Add your changes below:
 - Cleaned up text
 - Updated tracker
 - Fixed formatting
+- Improved clarity
