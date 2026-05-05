@@ -70,3 +70,4 @@ Add your changes below:
 - Fixed spacing
 - Fixed wording
 - Added section
+- Fixed wording
