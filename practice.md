@@ -68,3 +68,4 @@ Add your changes below:
 - Improved structure
 - Added entry
 - Fixed spacing
+- Fixed wording
