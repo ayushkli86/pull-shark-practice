@@ -67,3 +67,4 @@ Add your changes below:
 - Fixed grammar
 - Improved structure
 - Added entry
+- Fixed spacing
