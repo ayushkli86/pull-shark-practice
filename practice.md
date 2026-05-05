@@ -48,3 +48,4 @@ Add your changes below:
 - Added section
 - Updated tracker
 - Added detail
+- Improved readability
