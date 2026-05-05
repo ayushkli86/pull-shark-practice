@@ -52,3 +52,4 @@ Add your changes below:
 - Added checkpoint
 - Cleaned up text
 - Added section
+- Progress update
