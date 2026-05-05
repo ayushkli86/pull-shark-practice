@@ -36,3 +36,4 @@ Add your changes below:
 - Progress update
 - Cleaned up text
 - Added section
+- Added detail
