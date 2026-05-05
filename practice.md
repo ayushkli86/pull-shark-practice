@@ -50,3 +50,4 @@ Add your changes below:
 - Added detail
 - Improved readability
 - Added checkpoint
+- Cleaned up text
