@@ -65,3 +65,4 @@ Add your changes below:
 - Progress update
 - Added milestone
 - Fixed grammar
+- Improved structure
