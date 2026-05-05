@@ -42,3 +42,4 @@ Add your changes below:
 - Cleaned up text
 - Added detail
 - Updated notes
+- Improved clarity
