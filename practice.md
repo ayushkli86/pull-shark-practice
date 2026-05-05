@@ -26,3 +26,4 @@ Add your changes below:
 - Improved structure
 - Updated style
 - Improved readability
+- Fixed grammar
