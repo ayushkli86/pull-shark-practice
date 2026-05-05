@@ -114,3 +114,4 @@ Add your changes below:
 - Updated style
 - Improved clarity
 - Added section
+- Updated notes
