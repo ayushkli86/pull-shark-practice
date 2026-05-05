@@ -108,3 +108,4 @@ Add your changes below:
 - Fixed typo
 - Added detail
 - Added section
+- Fixed grammar
