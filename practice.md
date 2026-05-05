@@ -101,3 +101,4 @@ Add your changes below:
 - Fixed formatting
 - Improved clarity
 - Updated notes
+- Fixed wording
