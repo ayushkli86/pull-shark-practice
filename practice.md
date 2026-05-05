@@ -124,3 +124,4 @@ Add your changes below:
 - Improved structure
 - Cleaned up text
 - Added detail
+- Added detail
