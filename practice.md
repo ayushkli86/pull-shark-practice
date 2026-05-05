@@ -104,3 +104,4 @@ Add your changes below:
 - Fixed wording
 - Improved structure
 - Minor improvement
+- Added detail
