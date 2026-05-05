@@ -129,3 +129,4 @@ Add your changes below:
 - Added entry
 - Added section
 - Added detail
+- Updated tracker
