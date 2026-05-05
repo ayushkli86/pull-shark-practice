@@ -38,3 +38,4 @@ Add your changes below:
 - Added section
 - Added detail
 - Added entry
+- Updated notes
