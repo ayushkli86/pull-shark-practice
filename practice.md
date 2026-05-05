@@ -47,3 +47,4 @@ Add your changes below:
 - Updated notes
 - Added section
 - Updated tracker
+- Added detail
