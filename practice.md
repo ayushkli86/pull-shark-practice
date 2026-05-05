@@ -35,3 +35,4 @@ Add your changes below:
 - Added checkpoint
 - Progress update
 - Cleaned up text
+- Added section
