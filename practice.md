@@ -85,3 +85,4 @@ Add your changes below:
 - Updated tracker
 - Minor improvement
 - Cleaned up text
+- Updated notes
