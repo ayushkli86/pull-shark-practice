@@ -94,3 +94,4 @@ Add your changes below:
 - Fixed wording
 - Fixed grammar
 - Minor improvement
+- Fixed typo
