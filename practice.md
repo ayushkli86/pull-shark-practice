@@ -98,3 +98,4 @@ Add your changes below:
 - Added section
 - Cleaned up text
 - Updated tracker
+- Fixed formatting
