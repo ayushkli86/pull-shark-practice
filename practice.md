@@ -34,3 +34,4 @@ Add your changes below:
 - Fixed spacing
 - Added checkpoint
 - Progress update
+- Cleaned up text
