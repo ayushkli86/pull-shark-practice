@@ -89,3 +89,4 @@ Add your changes below:
 - Added milestone
 - Fixed formatting
 - Added checkpoint
+- Added entry
