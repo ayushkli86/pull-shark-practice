@@ -90,3 +90,4 @@ Add your changes below:
 - Fixed formatting
 - Added checkpoint
 - Added entry
+- Added detail
