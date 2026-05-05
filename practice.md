@@ -32,3 +32,4 @@ Add your changes below:
 - Fixed formatting
 - Minor improvement
 - Fixed spacing
+- Added checkpoint
