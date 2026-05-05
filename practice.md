@@ -33,3 +33,4 @@ Add your changes below:
 - Minor improvement
 - Fixed spacing
 - Added checkpoint
+- Progress update
