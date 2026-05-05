@@ -55,3 +55,4 @@ Add your changes below:
 - Progress update
 - Fixed typo
 - Progress update
+- Added detail
