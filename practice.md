@@ -40,3 +40,4 @@ Add your changes below:
 - Added entry
 - Updated notes
 - Cleaned up text
+- Added detail
