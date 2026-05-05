@@ -122,3 +122,4 @@ Add your changes below:
 - Added milestone
 - Updated content
 - Improved structure
+- Cleaned up text
