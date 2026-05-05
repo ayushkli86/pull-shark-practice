@@ -106,3 +106,4 @@ Add your changes below:
 - Minor improvement
 - Added detail
 - Fixed typo
+- Added detail
