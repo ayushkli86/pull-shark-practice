@@ -96,3 +96,4 @@ Add your changes below:
 - Minor improvement
 - Fixed typo
 - Added section
+- Cleaned up text
