@@ -18,3 +18,5 @@ Add your changes below:
 - Progress update
 
 - Added checkpoint
+
+- Fixed formatting
