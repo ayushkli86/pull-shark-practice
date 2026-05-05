@@ -91,3 +91,4 @@ Add your changes below:
 - Added checkpoint
 - Added entry
 - Added detail
+- Fixed wording
