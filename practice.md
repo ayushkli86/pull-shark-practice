@@ -72,3 +72,4 @@ Add your changes below:
 - Added section
 - Fixed wording
 - Added milestone
+- Added detail
