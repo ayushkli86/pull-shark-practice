@@ -60,3 +60,4 @@ Add your changes below:
 - Added entry
 - Updated tracker
 - Updated tracker
+- Added detail
