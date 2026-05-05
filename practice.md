@@ -73,3 +73,4 @@ Add your changes below:
 - Fixed wording
 - Added milestone
 - Added detail
+- Fixed wording
