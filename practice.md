@@ -81,3 +81,4 @@ Add your changes below:
 - Fixed grammar
 - Added section
 - Added milestone
+- Fixed wording
