@@ -121,3 +121,4 @@ Add your changes below:
 - Minor improvement
 - Added milestone
 - Updated content
+- Improved structure
