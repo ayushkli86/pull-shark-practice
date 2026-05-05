@@ -100,3 +100,4 @@ Add your changes below:
 - Updated tracker
 - Fixed formatting
 - Improved clarity
+- Updated notes
