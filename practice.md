@@ -128,3 +128,4 @@ Add your changes below:
 - Fixed spacing
 - Added entry
 - Added section
+- Added detail
