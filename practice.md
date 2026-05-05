@@ -53,3 +53,4 @@ Add your changes below:
 - Cleaned up text
 - Added section
 - Progress update
+- Fixed typo
