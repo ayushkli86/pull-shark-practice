@@ -88,3 +88,4 @@ Add your changes below:
 - Updated notes
 - Added milestone
 - Fixed formatting
+- Added checkpoint
