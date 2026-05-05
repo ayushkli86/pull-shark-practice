@@ -92,3 +92,4 @@ Add your changes below:
 - Added entry
 - Added detail
 - Fixed wording
+- Fixed grammar
