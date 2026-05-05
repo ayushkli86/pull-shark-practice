@@ -76,3 +76,4 @@ Add your changes below:
 - Fixed wording
 - Minor improvement
 - Added section
+- Added detail
