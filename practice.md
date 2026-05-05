@@ -84,3 +84,4 @@ Add your changes below:
 - Fixed wording
 - Updated tracker
 - Minor improvement
+- Cleaned up text
