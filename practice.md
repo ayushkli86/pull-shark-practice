@@ -63,3 +63,4 @@ Add your changes below:
 - Added detail
 - Progress update
 - Progress update
+- Added milestone
