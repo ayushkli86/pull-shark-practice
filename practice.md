@@ -51,3 +51,4 @@ Add your changes below:
 - Improved readability
 - Added checkpoint
 - Cleaned up text
+- Added section
