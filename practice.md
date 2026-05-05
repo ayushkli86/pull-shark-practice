@@ -105,3 +105,4 @@ Add your changes below:
 - Improved structure
 - Minor improvement
 - Added detail
+- Fixed typo
