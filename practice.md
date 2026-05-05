@@ -74,3 +74,4 @@ Add your changes below:
 - Added milestone
 - Added detail
 - Fixed wording
+- Minor improvement
