@@ -113,3 +113,4 @@ Add your changes below:
 - Added milestone
 - Updated style
 - Improved clarity
+- Added section
