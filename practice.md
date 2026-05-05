@@ -125,3 +125,4 @@ Add your changes below:
 - Cleaned up text
 - Added detail
 - Added detail
+- Fixed spacing
