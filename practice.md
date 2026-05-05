@@ -20,3 +20,4 @@ Add your changes below:
 - Added checkpoint
 
 - Fixed formatting
+- Updated notes
