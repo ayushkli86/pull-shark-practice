@@ -43,3 +43,4 @@ Add your changes below:
 - Added detail
 - Updated notes
 - Improved clarity
+- Improved readability
