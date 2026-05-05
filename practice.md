@@ -23,3 +23,4 @@ Add your changes below:
 - Updated notes
 - Added detail
 - Fixed spacing
+- Improved structure
