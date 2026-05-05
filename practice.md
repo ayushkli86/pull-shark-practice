@@ -83,3 +83,4 @@ Add your changes below:
 - Added milestone
 - Fixed wording
 - Updated tracker
+- Minor improvement
