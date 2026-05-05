@@ -64,3 +64,4 @@ Add your changes below:
 - Progress update
 - Progress update
 - Added milestone
+- Fixed grammar
