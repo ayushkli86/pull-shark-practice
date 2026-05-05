@@ -111,3 +111,4 @@ Add your changes below:
 - Fixed grammar
 - Improved clarity
 - Added milestone
+- Updated style
